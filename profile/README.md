@@ -20,7 +20,7 @@ Web プラットフォームのアプリケーションを主軸とした EdTech
 
 ### 参考資料
 
-- [Vue Fes Japan 2025 に参加してきました！](https://www.wantedly.com/companies/mates-edu/post_articles/1018517)
+- [Vue Fes Japan 2025 に参加してきました！](https://www.wantedly.com/companies/mates-edu/post_articles/1018517) (弊社より 2 名登壇)
 - [Vue Fes Japan 2025 スポンサー & 登壇します](https://www.wantedly.com/companies/mates-edu/post_articles/1012866)
 - [インタラクティブな ICT 教材の実装に DSL で立ち向かう](https://mates-system.github.io/v-tokyo-23/1)
   - [登壇イベントのレポート](https://www.wantedly.com/companies/mates-edu/post_articles/984753) (弊社より 1 名登壇)
