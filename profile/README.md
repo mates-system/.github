@@ -33,6 +33,6 @@ Web プラットフォームのアプリケーションを主軸とした EdTech
 - [AWS Summit Japan 2024@幕張メッセで登壇してきました！](https://www.wantedly.com/companies/mates-edu/post_articles/932249)
 - [Vue Fes Japan 2024 に参加してきました！](https://www.wantedly.com/companies/mates-edu/post_articles/932003) (弊社より 1 名登壇)
 - [Vue Fes Japan 2024 にシルバースポンサーとして協賛します！](https://www.wantedly.com/companies/mates-edu/post_articles/927375)
--　[AWS CDK Conference Japan 2024にて登壇してきました！](https://www.wantedly.com/companies/mates-edu/post_articles/913711)
+- [AWS CDK Conference Japan 2024にて登壇してきました！](https://www.wantedly.com/companies/mates-edu/post_articles/913711)
 - [Vue.js メンバーになりました 🤯](https://www.wantedly.com/companies/mates-edu/post_articles/903032)
 - [AWS HEROに選出いただきました！](https://www.wantedly.com/companies/mates-edu/post_articles/898120)
