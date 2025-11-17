@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="200" alt="mates-logo_アートボード 1" src="https://github.com/user-attachments/assets/6508d5ca-9835-437a-bfc7-838ffd9acb95" />
+<img width="120" alt="mates-logo_アートボード 1" src="https://github.com/user-attachments/assets/6508d5ca-9835-437a-bfc7-838ffd9acb95" />
 
 
 # 株式会社メイツ (Mates Co., Ltd.)
