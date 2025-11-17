@@ -1,11 +1,16 @@
 <div align="center">
 
+<img width="200" alt="mates-logo_アートボード 1" src="https://github.com/user-attachments/assets/6508d5ca-9835-437a-bfc7-838ffd9acb95" />
+
+
 # 株式会社メイツ
 Mates Inc.
 
-<img src="../images/cover.png" alt="株式会社メイツのカバー画像。教育を、アップデートする。教育とテクノロジーを融合させ、教育が永続的に進化する仕組みを創る。" width="400">
+<img width="500" alt="スクリーンショット 2025-11-17 15 43 13" src="https://github.com/user-attachments/assets/6ee85c87-6954-455a-9058-9f2c1d2ab1bc" /><br>
 
 </div>
+
+
 
 
 ### メイツとは？
@@ -17,6 +22,10 @@ Web プラットフォームのアプリケーションを主軸とした EdTech
 詳しくは [株式会社メイツ (Wantedly)](https://www.wantedly.com/companies/mates-edu) で
 
 カジュアル面談もお待ちしています！
+
+<img width="500" alt="スクリーンショット 2025-11-17 15 44 29" src="https://github.com/user-attachments/assets/c1f67b80-da38-4d57-82f3-67ff3fdb8e34" />
+<img width="500" alt="スクリーンショット 2025-11-17 15 44 42" src="https://github.com/user-attachments/assets/496a1606-6e10-4197-97f3-3e2a28dbd485" />
+
 
 ### 参考資料
 
@@ -36,3 +45,4 @@ Web プラットフォームのアプリケーションを主軸とした EdTech
 - [AWS CDK Conference Japan 2024にて登壇してきました！](https://www.wantedly.com/companies/mates-edu/post_articles/913711)
 - [Vue.js メンバーになりました 🤯](https://www.wantedly.com/companies/mates-edu/post_articles/903032)
 - [AWS HEROに選出いただきました！](https://www.wantedly.com/companies/mates-edu/post_articles/898120)
+
