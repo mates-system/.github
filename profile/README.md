@@ -3,8 +3,8 @@
 <img width="200" alt="mates-logo_アートボード 1" src="https://github.com/user-attachments/assets/6508d5ca-9835-437a-bfc7-838ffd9acb95" />
 
 
-# 株式会社メイツ
-Mates Inc.
+# 株式会社メイツ (Mates Co., Ltd.)
+
 
 <img width="500" alt="スクリーンショット 2025-11-17 15 43 13" src="https://github.com/user-attachments/assets/6ee85c87-6954-455a-9058-9f2c1d2ab1bc" /><br>
 
